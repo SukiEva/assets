@@ -1,0 +1,3 @@
+# assets
+
+`shared static library`
